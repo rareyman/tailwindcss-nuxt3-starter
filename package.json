@@ -2,9 +2,9 @@
   "name": "nuxt-app",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
     "dev": "nuxt dev --port=8889",
     "generate": "nuxt generate",
+    "build": "nuxt build",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },

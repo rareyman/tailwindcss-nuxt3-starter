@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	// ssr: true,
 	// https://github.com/nuxt/nuxt/issues/15213
 	// experimental: { inlineSSRStyles: false },
-	css: ['@/assets/css/main.css'],
+	css: ['@/assets/styles/main.css'],
 	postcss: {
 		plugins: {
 			tailwindcss: {},
